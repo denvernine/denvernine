@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### website
+
+<a href="https://denvernine.github.io">denvernine.</a>
+
 #### identifier
 
 <dl style="list-style: none;">
@@ -19,6 +23,6 @@
     <dd><a href="https://twitter.com/nkiril">nkiril</a>
     <dd><a href="https://twitter.com/denvernine">denvernine</a>
     <dt>gravatar
-    <dD><a href="https://en.gravatar.com/denvernine">denvernine</a>
+    <dd><a href="https://en.gravatar.com/denvernine">denvernine</a>
   </dl>
 </address>
