@@ -12,6 +12,9 @@
   <dt>GPG/PGP Public Keys
   <dd><a href="https://github.com/denvernine.gpg">github.com</a>
   <dd><a href="https://api.github.com/users/denvernine/gpg_keys">api.github.com</a>
+  <dt>SSH Public Keys
+  <dd><a href="https://github.com/denvernine.keys">github.com</a>
+  <dd><a href="https://api.github.com/users/denvernine/keys">api.github.com</a>
 </dl>
 
 #### contacts
