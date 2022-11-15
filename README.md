@@ -16,15 +16,3 @@
   <dd><a href="https://github.com/denvernine.keys">github.com</a>
   <dd><a href="https://api.github.com/users/denvernine/keys">api.github.com</a>
 </dl>
-
-#### contacts
-
-<address>
-  <dl style="list-style: none;">
-    <dt>twitter
-    <dd><a href="https://twitter.com/nkiril">nkiril</a>
-    <dd><a href="https://twitter.com/denvernine">denvernine</a>
-    <dt>gravatar
-    <dd><a href="https://en.gravatar.com/denvernine">denvernine</a>
-  </dl>
-</address>
